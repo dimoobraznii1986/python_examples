@@ -1,1 +1,4 @@
 .DS_Store
+/restore_points/*
+restore_points/*
+restore_points
